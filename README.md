@@ -8,13 +8,9 @@
 
 <br />
 
----
-
 ### Who We Are
 
 make2explore is Tech Startup, working in the fields of Electronics, Embedded Systems and WebDesign.
-
-<br />
 
 ---
 
@@ -24,8 +20,6 @@ make2explore is Tech Startup, working in the fields of Electronics, Embedded Sys
 - ▶️ We also make easy-to-understand Video/Blog Tutorials about basic concepts in Robotics and Electronics.
 - 🎓 Project Guidance and consultation to the students studying in Electronics Engineering.
 - 🌐 We design and develop custom WordPress websites for startup businesses, OPC's, and Individuals
-
-<br />
 
 ---
 
