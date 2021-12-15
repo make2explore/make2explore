@@ -33,11 +33,6 @@ make2explore is Tech Startup, working in the fields of Electronics, Embedded Sys
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[ Part I ] - Hand Pose Estimation on Jetson Nano](https://www.youtube.com/watch?v=FPXVC7WrC4s)
-- [[ Part II ] - Hand Gesture Recognition on Jetson Nano](https://www.youtube.com/watch?v=wM9CMnbKWvc)
-- [[Tutorial] Getting Started With Jetson Nano](https://www.youtube.com/watch?v=IVw1cyanRi0)
-- [[Tutorial] Machine Learning Docker Container On Jetson Nano](https://www.youtube.com/watch?v=LfMs0AN4ayA)
-- [Real Time Pose Estimation on Jetson Nano](https://www.youtube.com/watch?v=y38Mze43w-A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
@@ -47,11 +42,6 @@ make2explore is Tech Startup, working in the fields of Electronics, Embedded Sys
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What is an Arduino ?](https://blog.make2explore.com/what-is-an-arduino/)
-- [Overview of Arduino Uno Hardware - 1](https://blog.make2explore.com/overview-of-arduino-uno-hardware-1/)
-- [Overview of Arduino Uno Hardware - 2](https://blog.make2explore.com/overview-of-arduino-uno-hardware-2/)
-- [How not to Fry your Arduino ?](https://blog.make2explore.com/how-not-to-fry-your-arduino/)
-- [Blinking an LED using Arduino Uno](https://blog.make2explore.com/led-blinking-arduino-uno/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.make2explore.com/)
