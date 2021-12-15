@@ -26,6 +26,8 @@ make2explore is Tech Startup, working in the fields of Electronics, Embedded Sys
 [<img align="left" alt="make2explore | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="make2explore | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<a href="https://twitter.com/make2explore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="make2explore" height="30" width="40" /></a>
+
 <br />
 
 ---
