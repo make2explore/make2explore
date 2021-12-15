@@ -1,18 +1,14 @@
 ### Hi there! 👋
 
 ### Welcome to make2explore -aka [make2explore Embedded Systems LLP][website]
-<br />
 
 [![Website](https://img.shields.io/website?label=make2explore.com&style=for-the-badge&url=https%3A%2F%2Fmake2explore.com)](https://make2explore.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/make2explore?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmake2explore&screen_name=make2explore)
 
-<br />
 
 ### Who We Are
 
 make2explore is Tech Startup, working in the fields of Electronics, Embedded Systems and WebDesign.
-
----
 
 ### ⚙ Our Services
 
@@ -21,7 +17,6 @@ make2explore is Tech Startup, working in the fields of Electronics, Embedded Sys
 - 🎓 Project Guidance and consultation to the students studying in Electronics Engineering.
 - 🌐 We design and develop custom WordPress websites for startup businesses, OPC's, and Individuals
 
----
 
 ### 🔗 Connect with us:
 
