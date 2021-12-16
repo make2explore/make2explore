@@ -31,11 +31,11 @@ make2explore is Tech Startup, working in the fields of Electronics, Embedded Sys
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[Device Overview]  RF Based Wireless Relay module with Remote Control](https://www.youtube.com/watch?v=CNWZQa_2w7c)
 - [[ Part I ] - Hand Pose Estimation on Jetson Nano](https://www.youtube.com/watch?v=FPXVC7WrC4s)
 - [[ Part II ] - Hand Gesture Recognition on Jetson Nano](https://www.youtube.com/watch?v=wM9CMnbKWvc)
 - [[Tutorial] Getting Started With Jetson Nano](https://www.youtube.com/watch?v=IVw1cyanRi0)
 - [[Tutorial]  Machine Learning Docker Container On Jetson Nano](https://www.youtube.com/watch?v=LfMs0AN4ayA)
-- [Real Time Pose Estimation on Jetson Nano](https://www.youtube.com/watch?v=y38Mze43w-A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
