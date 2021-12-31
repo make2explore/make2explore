@@ -10,6 +10,8 @@
 
 make2explore is Tech Startup, working in the fields of Electronics, Embedded Systems and WebDesign.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=make2explore&label=Profile%20views&color=0e75b6&style=flat" alt="make2explore" /> </p>
+
 ### ⚙ Our Services
 
 - 🤖 We make Self learning Robotics and Basic Electronics DIY Kits
