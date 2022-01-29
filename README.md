@@ -17,7 +17,7 @@
 - 🤖 We make Self learning Robotics and Basic Electronics DIY Kits
 - ▶️ We also make easy-to-understand Video/Blog Tutorials about basic concepts in Robotics and Electronics.
 - 🎓 We provide Academic Project guidance to the students studying in Electronics Engineering.
-- 🌐 We also design and develop custom Trainer kits.
+- 🌐 We also design and develop custom Trainer kits for Students and Hobbyists.
 
 
 ### 🔗 Connect with us:
