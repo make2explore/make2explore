@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-### Welcome to make2explore -aka [make2explore Embedded Systems LLP][website]
+### Welcome to make2explore -aka [make2explore Systems LLP][website]
 
 [![Website](https://img.shields.io/website?label=make2explore.com&style=for-the-badge&url=https%3A%2F%2Fmake2explore.com)](https://make2explore.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/make2explore?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmake2explore&screen_name=make2explore)
@@ -8,7 +8,7 @@
 
 ### Who We Are
 
-make2explore is Tech Startup, working in the fields of Electronics, Embedded Systems and WebDesign.
+𝗺𝗮𝗸𝗲𝟮𝗲𝘅𝗽𝗹𝗼𝗿𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 is a team of Engineering Consultants. We build self learning - DIY Electronics Kits, Embedded systems Lab Kits, DIY Robotics & STEM Educational Kits for Students and Hobbyists.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=make2explore&label=Profile%20views&color=0e75b6&style=flat" alt="make2explore" /> </p>
 
@@ -16,8 +16,8 @@ make2explore is Tech Startup, working in the fields of Electronics, Embedded Sys
 
 - 🤖 We make Self learning Robotics and Basic Electronics DIY Kits
 - ▶️ We also make easy-to-understand Video/Blog Tutorials about basic concepts in Robotics and Electronics.
-- 🎓 Project Guidance and consultation to the students studying in Electronics Engineering.
-- 🌐 We design and develop custom WordPress websites for startup businesses, OPC's, and Individuals
+- 🎓 We provide Guidance and consultation to the students studying in Electronics Engineering.
+- 🌐 We also design and develop custom Trainer kits.
 
 
 ### 🔗 Connect with us:
