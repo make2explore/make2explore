@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-### Welcome to make2explore -aka [make2explore Systems LLP][website]
+### Welcome to [make2explore Systems LLP][website]
 
 [![Website](https://img.shields.io/website?label=make2explore.com&style=for-the-badge&url=https%3A%2F%2Fmake2explore.com)](https://make2explore.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/make2explore?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmake2explore&screen_name=make2explore)
