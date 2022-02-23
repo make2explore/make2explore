@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[Tutorial] Raspberry Pi Interfacing with EM18 RFID Reader](https://www.youtube.com/watch?v=eBzN0RCrgbI)
 - [[Device Overview]  RF Based Wireless Relay module with Remote Control](https://www.youtube.com/watch?v=CNWZQa_2w7c)
 - [[ Part I ] - Hand Pose Estimation on Jetson Nano](https://www.youtube.com/watch?v=FPXVC7WrC4s)
 - [[ Part II ] - Hand Gesture Recognition on Jetson Nano](https://www.youtube.com/watch?v=wM9CMnbKWvc)
 - [[Tutorial] Getting Started With Jetson Nano](https://www.youtube.com/watch?v=IVw1cyanRi0)
-- [[Tutorial]  Machine Learning Docker Container On Jetson Nano](https://www.youtube.com/watch?v=LfMs0AN4ayA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
