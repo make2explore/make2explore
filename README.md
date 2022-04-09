@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[Tutorial] Tune up your Raspberry Pi for Vision Based Projects](https://www.youtube.com/watch?v=00c2GTpRaU8)
 - [Face Recognition based Gate/Door Security system](https://www.youtube.com/watch?v=-rflpISvjIs)
 - [Raspberry Pi, OpenCV Project - No Mask,  No Entry](https://www.youtube.com/watch?v=_LpEh1rEYm4)
 - [[Tutorial] Raspberry Pi Interfacing with EM18 RFID Reader](https://www.youtube.com/watch?v=eBzN0RCrgbI)
 - [[Device Overview]  RF Based Wireless Relay module with Remote Control](https://www.youtube.com/watch?v=CNWZQa_2w7c)
-- [[ Part I ] - Hand Pose Estimation on Jetson Nano](https://www.youtube.com/watch?v=FPXVC7WrC4s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
