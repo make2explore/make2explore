@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[Tutorial] MediaPipe Machine Learning Solutions on Raspberry Pi](https://www.youtube.com/watch?v=9_Z08_bVzQo)
+- [[Tutorial] How to Install MediaPipe on Raspberry Pi](https://www.youtube.com/watch?v=mlwEJkrHBL8)
 - [[Tutorial] Tune up your Raspberry Pi for Vision Based Projects](https://www.youtube.com/watch?v=00c2GTpRaU8)
 - [Face Recognition based Gate/Door Security system](https://www.youtube.com/watch?v=-rflpISvjIs)
 - [Raspberry Pi, OpenCV Project - No Mask,  No Entry](https://www.youtube.com/watch?v=_LpEh1rEYm4)
-- [[Tutorial] Raspberry Pi Interfacing with EM18 RFID Reader](https://www.youtube.com/watch?v=eBzN0RCrgbI)
-- [[Device Overview]  RF Based Wireless Relay module with Remote Control](https://www.youtube.com/watch?v=CNWZQa_2w7c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
