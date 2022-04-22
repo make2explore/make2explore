@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Pose Estimation on Raspberry Pi](https://www.youtube.com/watch?v=X5MT-_1nXuc)
 - [TensorFlow Lite Object Detection on Raspberry Pi](https://www.youtube.com/watch?v=YF_BHThn8uk)
 - [[Tutorial] MediaPipe Machine Learning Solutions on Raspberry Pi](https://www.youtube.com/watch?v=9_Z08_bVzQo)
 - [[Tutorial] How to Install MediaPipe on Raspberry Pi](https://www.youtube.com/watch?v=mlwEJkrHBL8)
 - [[Tutorial] Tune up your Raspberry Pi for Vision Based Projects](https://www.youtube.com/watch?v=00c2GTpRaU8)
-- [Face Recognition based Gate/Door Security system](https://www.youtube.com/watch?v=-rflpISvjIs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
