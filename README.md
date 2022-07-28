@@ -33,7 +33,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[Device Overview] Reyax LoRa RYLR998 Module](https://www.youtube.com/watch?v=UFjA9VwudE0)
+- [[Device Overview] Reyax RYLR998 LoRa Module](https://www.youtube.com/watch?v=UFjA9VwudE0)
 - [Pose Estimation on Raspberry Pi](https://www.youtube.com/watch?v=X5MT-_1nXuc)
 - [TensorFlow Lite Object Detection on Raspberry Pi](https://www.youtube.com/watch?v=YF_BHThn8uk)
 - [[Tutorial] MediaPipe Machine Learning Solutions on Raspberry Pi](https://www.youtube.com/watch?v=9_Z08_bVzQo)
