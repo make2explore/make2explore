@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [RYLR998 LoRa Module Range Testing](https://www.youtube.com/watch?v=dzdASqc0R0U)
 - [[Device Overview] Reyax RYLR998 LoRa Module](https://www.youtube.com/watch?v=UFjA9VwudE0)
 - [Pose Estimation on Raspberry Pi](https://www.youtube.com/watch?v=X5MT-_1nXuc)
 - [TensorFlow Lite Object Detection on Raspberry Pi](https://www.youtube.com/watch?v=YF_BHThn8uk)
 - [[Tutorial] MediaPipe Machine Learning Solutions on Raspberry Pi](https://www.youtube.com/watch?v=9_Z08_bVzQo)
-- [[Tutorial] How to Install MediaPipe on Raspberry Pi](https://www.youtube.com/watch?v=mlwEJkrHBL8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
