@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DIY Project : RYRR10S RFID](https://www.youtube.com/watch?v=nVK9xxltE40)
 - [[Device Overview] Reyax RYRR10S RFID/NFC Module - I](https://www.youtube.com/watch?v=6xrHXVnU7Dw)
 - [[DIY Project] Reyax RYRR10S RFID/NFC Module - II](https://www.youtube.com/watch?v=9n3QT87dWtc)
 - [RYLR998 LoRa Module Range Testing](https://www.youtube.com/watch?v=dzdASqc0R0U)
 - [[Device Overview] Reyax RYLR998 LoRa Module](https://www.youtube.com/watch?v=UFjA9VwudE0)
-- [Pose Estimation on Raspberry Pi](https://www.youtube.com/watch?v=X5MT-_1nXuc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
