@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Pose Estimation on Raspberry Pi](https://www.youtube.com/watch?v=X5MT-_1nXuc)
-- [TensorFlow Lite Object Detection on Raspberry Pi](https://www.youtube.com/watch?v=YF_BHThn8uk)
-- [[Tutorial] MediaPipe Machine Learning Solutions on Raspberry Pi](https://www.youtube.com/watch?v=9_Z08_bVzQo)
-- [[Tutorial] How to Install MediaPipe on Raspberry Pi](https://www.youtube.com/watch?v=mlwEJkrHBL8)
-- [[Tutorial] Tune up your Raspberry Pi for Vision Based Projects](https://www.youtube.com/watch?v=00c2GTpRaU8)
+- [[DIY Project] Wio-E5 LoRa Dev Boards](https://www.youtube.com/watch?v=xma1WmYEH8g)
+- [[Device Overview] Seeed Studio&#39;s Wio-E5 LoRa Development Boards](https://www.youtube.com/watch?v=VspwQZ2S2m8)
+- [[DIY Project] Application of Wio-E5 Dev Boards in LoRa WSN](https://www.youtube.com/watch?v=B6kpMtoYYbQ)
+- [DIY Project : RYRR10S RFID](https://www.youtube.com/watch?v=nVK9xxltE40)
+- [[Device Overview] Reyax RYRR10S RFID/NFC Module - I](https://www.youtube.com/watch?v=6xrHXVnU7Dw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
