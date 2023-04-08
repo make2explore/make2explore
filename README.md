@@ -8,14 +8,14 @@
 
 ### Who We Are
 
-𝗺𝗮𝗸𝗲𝟮𝗲𝘅𝗽𝗹𝗼𝗿𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 is a team of Engineering Consultants. We build self learning - DIY Electronics Kits, Embedded systems Lab Kits, DIY Robotics & STEM Educational Kits for Students and Hobbyists.
+𝗺𝗮𝗸𝗲𝟮𝗲𝘅𝗽𝗹𝗼𝗿𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 is a team of Engineering Consultants. We create Tech Content : Videos, Blogs, Articles about New Technologies, Hardware and Software. We also provide online consultation to the Students and Hobbyists in their Academic/Hobby projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=make2explore&label=Profile%20views&color=0e75b6&style=flat" alt="make2explore" /> </p>
 
 ### ⚙ Our Services
 
-- 🤖 We make DIY Electronics Kits, Embedded systems Lab Kits, DIY Robotics & STEM Educational Kits Students and Hobbyists.
-- ▶️ We also make easy-to-understand Video/Blog Tutorials about basic concepts in Robotics and Electronics.
+- ▶️ We create Tech Content :  Video/Blog, Tutorials, Articles about New Technologies, Hardware and Software.
+- 🤖 We also develop DIY Electronics Kits, Embedded systems Lab Kits, DIY Robotics & STEM Educational Kits.
 - 🎓 We provide Academic Project guidance to the students studying in Electronics Engineering.
 - 🌐 We also design and develop custom Trainer kits for Students and Hobbyists.
 
