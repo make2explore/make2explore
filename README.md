@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Introduction to Arduino IoT Cloud](https://www.youtube.com/watch?v=khxzE7lxrPA)
 - [[Device Overview] Seeed Studio&#39;s Wio-E5 LoRa Development Boards](https://www.youtube.com/watch?v=4ojRbUSfYdo)
 - [[DIY Project] Wio-E5 LoRa Dev Boards](https://www.youtube.com/watch?v=xma1WmYEH8g)
 - [[DIY Project] Application of Wio-E5 Dev Boards in LoRa WSN](https://www.youtube.com/watch?v=B6kpMtoYYbQ)
 - [DIY Project : RYRR10S RFID](https://www.youtube.com/watch?v=nVK9xxltE40)
-- [[Device Overview] Reyax RYRR10S RFID/NFC Module - I](https://www.youtube.com/watch?v=6xrHXVnU7Dw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
