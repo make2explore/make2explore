@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Exploring Arduino OPLA IoT Kit](https://www.youtube.com/watch?v=EsufhL-IDQ0)
 - [[DIY Project] Thermostat System monitoring from Arduino IoT Cloud](https://www.youtube.com/watch?v=JM7dwcP62Ns)
 - [Introduction to Arduino IoT Cloud](https://www.youtube.com/watch?v=khxzE7lxrPA)
 - [[Device Overview] Seeed Studio&#39;s Wio-E5 LoRa Development Boards](https://www.youtube.com/watch?v=4ojRbUSfYdo)
 - [[DIY Project] Wio-E5 LoRa Dev Boards](https://www.youtube.com/watch?v=xma1WmYEH8g)
-- [[DIY Project] Application of Wio-E5 Dev Boards in LoRa WSN](https://www.youtube.com/watch?v=B6kpMtoYYbQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
