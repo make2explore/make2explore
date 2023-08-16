@@ -33,7 +33,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[Tutorial] How to display Animations on OLED display ?](https://www.youtube.com/watch?v=-uKi59ICnuY)
+- [[Tutorial] Raspberry Pi Pico OLED Animations](https://www.youtube.com/watch?v=-uKi59ICnuY)
 - [Arduino OPLA IoT kit - Features](https://www.youtube.com/watch?v=eOCcb-jT9-w)
 - [Exploring Arduino OPLA IoT Kit](https://www.youtube.com/watch?v=EsufhL-IDQ0)
 - [[DIY Project] Thermostat System monitoring from Arduino IoT Cloud](https://www.youtube.com/watch?v=JM7dwcP62Ns)
