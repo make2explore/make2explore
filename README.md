@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[Device Overview] Adafruit Circuit Playground Express](https://www.youtube.com/watch?v=tHRV9FFY870)
 - [Raspberry Pi Pico OLED Animations](https://www.youtube.com/watch?v=8gjYLHkd8tc)
 - [[Tutorial] Raspberry Pi Pico OLED Animations](https://www.youtube.com/watch?v=YMGYbmGxhP4)
 - [Arduino OPLA IoT kit - Features](https://www.youtube.com/watch?v=eOCcb-jT9-w)
 - [Exploring Arduino OPLA IoT Kit](https://www.youtube.com/watch?v=EsufhL-IDQ0)
-- [[DIY Project] Thermostat System monitoring from Arduino IoT Cloud](https://www.youtube.com/watch?v=JM7dwcP62Ns)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
