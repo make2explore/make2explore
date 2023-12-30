@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Musical Lights - Circuit Playground Express](https://www.youtube.com/watch?v=UINRjDTZZ9A)
 - [D6 Dice Game - Circuit Playground Express](https://www.youtube.com/watch?v=Qpm-Nic1vfA)
 - [[Device Overview] Adafruit Circuit Playground Express](https://www.youtube.com/watch?v=tHRV9FFY870)
 - [Raspberry Pi Pico OLED Animations](https://www.youtube.com/watch?v=8gjYLHkd8tc)
 - [[Tutorial] Raspberry Pi Pico OLED Animations](https://www.youtube.com/watch?v=YMGYbmGxhP4)
-- [Arduino OPLA IoT kit - Features](https://www.youtube.com/watch?v=eOCcb-jT9-w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
