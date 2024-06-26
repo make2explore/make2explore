@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[Tutorial] Getting Started With ESP RainMaker](https://www.youtube.com/watch?v=AQDzyJrRA5M)
 - [[Device Overview] Ultra-wideband Transceiver Module RYUW122](https://www.youtube.com/watch?v=HwBakNIPAz4)
 - [Ultra-wideband Wireless Communication Technology](https://www.youtube.com/watch?v=r5yxuV-Y3z8)
 - [Color Sensing - Circuit Playground Express](https://www.youtube.com/watch?v=-i2m2_ZhP2E)
 - [Musical Lights - Circuit Playground Express](https://www.youtube.com/watch?v=UINRjDTZZ9A)
-- [D6 Dice Game - Circuit Playground Express](https://www.youtube.com/watch?v=Qpm-Nic1vfA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
