@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LED Blinking – Arduino Uno](https://blog.make2explore.com/led-blinking-arduino-uno/)
 - [How not to Fry your Arduino ?](https://blog.make2explore.com/how-not-to-fry-your-arduino/)
-- [Overview of Arduino Uno Hardware -2](https://blog.make2explore.com/overview-of-arduino-uno-hardware-2/)
-- [Overview of Arduino Uno Hardware -1](https://blog.make2explore.com/overview-of-arduino-uno-hardware-1/)
-- [What is an Arduino ?](https://blog.make2explore.com/what-is-an-arduino/)
+- [LED Blinking – Arduino Uno](https://blog.make2explore.com/led-blinking-arduinouno/)
+- [Overview of Arduino Uno Hardware – 2](https://blog.make2explore.com/overview-of-arduino-uno-hardware-2/)
+- [Overview of Arduino Uno Hardware – 1](https://blog.make2explore.com/overview-of-arduino-uno-hardware-1/)
+- [What is an Arduino?](https://blog.make2explore.com/what-is-an-arduino/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.make2explore.com/)
