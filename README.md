@@ -33,7 +33,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[DIY Project] ESP32 IoT Home Automation Project using IR Remote and ESP RainMaker](https://www.youtube.com/watch?v=T786g_ZvO_Y)
+- [[DIY Project] ESP32 IoT Home Automation Project using IR Remote and ESP Rainmaker](https://www.youtube.com/watch?v=T786g_ZvO_Y)
 - [[Tutorial] Getting Started with Matter on ESP32](https://www.youtube.com/watch?v=c6K8ZA3cKEQ)
 - [[Tutorial] Getting Started With ESP RainMaker](https://www.youtube.com/watch?v=AQDzyJrRA5M)
 - [[Device Overview] Ultra-wideband Transceiver Module RYUW122](https://www.youtube.com/watch?v=HwBakNIPAz4)
