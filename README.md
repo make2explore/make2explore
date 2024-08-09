@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[Tutorial] Installation and Use of ESP-IDF Extension in Visual Studio Code](https://www.youtube.com/watch?v=EBXK3Mr6y7I)
 - [[DIY Project] ESP32 IoT Home Automation Project using IR Remote, RF Remote and ESP Rainmaker App](https://www.youtube.com/watch?v=A4qnnGCsRNw)
 - [[DIY Project] ESP32 IoT Home Automation Project using RF Remote and ESP Rainmaker](https://www.youtube.com/watch?v=0JpGXPFtY6Y)
 - [[DIY Project] ESP32 IoT Home Automation Project using IR Remote and ESP Rainmaker](https://www.youtube.com/watch?v=T786g_ZvO_Y)
 - [[Tutorial] Getting Started with Matter on ESP32](https://www.youtube.com/watch?v=c6K8ZA3cKEQ)
-- [[Tutorial] Getting Started With ESP Rainmaker](https://www.youtube.com/watch?v=AQDzyJrRA5M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
