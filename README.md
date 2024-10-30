@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to install OpenCV on Jetson Nano with CUDA Support - I](https://www.youtube.com/watch?v=6DBhDK_JCEY)
+- [How to install OpenCV on Jetson Nano with CUDA Support - II](https://www.youtube.com/watch?v=mmyxWBOo1kg)
 - [[Tutorial] Installation of NoMachine on NVIDIA Jetson Nano](https://www.youtube.com/watch?v=vBMHS6FXBM4)
 - [[HND] ESP32 Matter-Light Application Demo #iot #esp32 #matter](https://www.youtube.com/watch?v=9W7X0XbHqpM)
 - [[ENG] ESP32 Matter-Light Application Demo #iot #esp32 #matter](https://www.youtube.com/watch?v=nQc11ULfip0)
-- [[Tutorial] Installation and Use of ESP-IDF Extension in Visual Studio Code](https://www.youtube.com/watch?v=EBXK3Mr6y7I)
-- [[DIY Project] ESP32 IoT Home Automation Project using IR Remote, RF Remote and ESP Rainmaker App](https://www.youtube.com/watch?v=A4qnnGCsRNw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
