@@ -33,7 +33,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[Tutorial] - How to Setup ESP-IDF Development Environment](https://www.youtube.com/watch?v=ZZr7VN_fYNU)
+- [[Tutorial]  How to Setup ESP-IDF Development Environment](https://www.youtube.com/watch?v=ZZr7VN_fYNU)
 - [[Tutorial] How to Install Pytorch and Torchvision  on Jetson Nano](https://www.youtube.com/watch?v=o8QuRm-is_I)
 - [How to install OpenCV on Jetson Nano with CUDA Support - I](https://www.youtube.com/watch?v=6DBhDK_JCEY)
 - [How to install OpenCV on Jetson Nano with CUDA Support - II](https://www.youtube.com/watch?v=mmyxWBOo1kg)
