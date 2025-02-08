@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[Tutorial] ESP ZeroCode : Text Mode Configuration - I](https://www.youtube.com/watch?v=xrCVEMla6SA)
 - [ESP ZeroCode Product Templates](https://www.youtube.com/watch?v=z33mFGMzuHQ)
 - [[Tutorial] Getting Started with ESP ZeroCode](https://www.youtube.com/watch?v=xbHPvr6Ibho)
 - [[Tutorial] Using VSCode with ESP-IDF Extension for Matter Development - II](https://www.youtube.com/watch?v=TABZe3tp5Qk)
 - [[Tutorial] Using VSCode with ESP-IDF Extension for Matter Development - I](https://www.youtube.com/watch?v=x_sEsYz0qEc)
-- [[Tutorial]  Setup Matter Development Environment in Linux - II](https://www.youtube.com/watch?v=NFyD5MwxVGw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
