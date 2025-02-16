@@ -33,7 +33,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [[DIY Project] Smart Light Bulb using ESP ZeroCode](https://www.youtube.com/watch?v=qPP-9395y-w)
+- [[DIY Project] Smart Light Bulb using ESP #zerocode](https://www.youtube.com/watch?v=qPP-9395y-w)
 - [[Tutorial] ESP ZeroCode : Text Mode Configuration - II](https://www.youtube.com/watch?v=5ST3LYAqnek)
 - [[Tutorial] ESP ZeroCode : Text Mode Configuration - I](https://www.youtube.com/watch?v=xrCVEMla6SA)
 - [ESP ZeroCode Product Templates](https://www.youtube.com/watch?v=z33mFGMzuHQ)
