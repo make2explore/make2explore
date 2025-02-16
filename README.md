@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[DIY Project] Smart Light Bulb using ESP ZeroCode](https://www.youtube.com/watch?v=qPP-9395y-w)
 - [[Tutorial] ESP ZeroCode : Text Mode Configuration - II](https://www.youtube.com/watch?v=5ST3LYAqnek)
 - [[Tutorial] ESP ZeroCode : Text Mode Configuration - I](https://www.youtube.com/watch?v=xrCVEMla6SA)
 - [ESP ZeroCode Product Templates](https://www.youtube.com/watch?v=z33mFGMzuHQ)
 - [[Tutorial] Getting Started with ESP ZeroCode](https://www.youtube.com/watch?v=xbHPvr6Ibho)
-- [[Tutorial] Using VSCode with ESP-IDF Extension for Matter Development - II](https://www.youtube.com/watch?v=TABZe3tp5Qk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
