@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[Tutorial] Getting Started with SenseCraft AI - II](https://www.youtube.com/watch?v=zC39uoNr7Ug)
 - [[Tutorial] Getting Started with SenseCraft AI - I](https://www.youtube.com/watch?v=Q-nVbmbQi5s)
 - [[DIY Project] Smart Plug using ESP ZeroCode #esp32 #iot #matter](https://www.youtube.com/watch?v=BTEt-_iAoV0)
 - [[DIY Project] Smart Light Bulb using ESP ZeroCode #esp32 #iot #matter](https://www.youtube.com/watch?v=qPP-9395y-w)
 - [[Tutorial] ESP ZeroCode : Text Mode Configuration - II](https://www.youtube.com/watch?v=5ST3LYAqnek)
-- [[Tutorial] ESP ZeroCode : Text Mode Configuration - I](https://www.youtube.com/watch?v=xrCVEMla6SA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
