@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[DIY Project] Gesture Controlled Appliances using SenseCraft AI](https://www.youtube.com/watch?v=CT4_icwU0Yw)
 - [[Tutorial] Training Custom Vision AI Model using SenseCraft AI](https://www.youtube.com/watch?v=uLClO7NByxU)
 - [[Tutorial] Getting Started with SenseCraft AI - II](https://www.youtube.com/watch?v=zC39uoNr7Ug)
 - [[Tutorial] Getting Started with SenseCraft AI - I](https://www.youtube.com/watch?v=Q-nVbmbQi5s)
 - [[DIY Project] Smart Plug using ESP ZeroCode #esp32 #iot #matter](https://www.youtube.com/watch?v=BTEt-_iAoV0)
-- [[DIY Project] Smart Light Bulb using ESP ZeroCode #esp32 #iot #matter](https://www.youtube.com/watch?v=qPP-9395y-w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
