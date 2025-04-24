@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[DIY Project] M5StickC-Plus #smartwatch #esp32 #iot](https://www.youtube.com/watch?v=gQLLJikvEz0)
 - [M5StickC Plus #esp32 #smartwatch #iot](https://www.youtube.com/watch?v=fycNIFSYQ2w)
 - [[DIY Project] Gesture Controlled Appliances using SenseCraft AI](https://www.youtube.com/watch?v=CT4_icwU0Yw)
 - [[Tutorial] Training Custom Vision AI Model using SenseCraft AI](https://www.youtube.com/watch?v=uLClO7NByxU)
 - [[Tutorial] Getting Started with SenseCraft AI - II](https://www.youtube.com/watch?v=zC39uoNr7Ug)
-- [[Tutorial] Getting Started with SenseCraft AI - I](https://www.youtube.com/watch?v=Q-nVbmbQi5s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
