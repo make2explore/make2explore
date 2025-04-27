@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IoT Based Smart and Secure Lock V1.0](https://blog.make2explore.com/iot-based-smart-and-secure-lock-v1-0/)
 - [Home Security System using ESP32-CAM and Telegram App](https://blog.make2explore.com/home-security-system-using-esp32-cam-and-telegram-app/)
 - [DIY Project – Monitor and Control Weather Station with Telegram App](https://blog.make2explore.com/diy-project-monitor-and-control-weather-station-with-telegram-app/)
 - [DIY Project – ESP32 LoRa Sensor Monitoring with Embedded Web Server](https://blog.make2explore.com/diy-project-esp32-lora-sensor-monitoring-with-embedded-web-server/)
 - [How not to Fry your Arduino ?](https://blog.make2explore.com/how-not-to-fry-your-arduino/)
-- [LED Blinking – Arduino Uno](https://blog.make2explore.com/led-blinking-arduinouno/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.make2explore.com/)
