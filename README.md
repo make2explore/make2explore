@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[DIY Project] GPS Speedometer using M5StickCPlus2](https://www.youtube.com/watch?v=MY92SJlaFmg)
 - [[DIY Project] M5StickC-Plus #smartwatch #esp32 #iot](https://www.youtube.com/watch?v=fZLYG__RQS8)
 - [[DIY Project] M5StickC-Plus #smartwatch #esp32 #iot](https://www.youtube.com/watch?v=gQLLJikvEz0)
 - [M5StickC Plus #esp32 #smartwatch #iot](https://www.youtube.com/watch?v=fycNIFSYQ2w)
 - [[DIY Project] Gesture Controlled Appliances using SenseCraft AI](https://www.youtube.com/watch?v=CT4_icwU0Yw)
-- [[Tutorial] Training Custom Vision AI Model using SenseCraft AI](https://www.youtube.com/watch?v=uLClO7NByxU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
