@@ -33,7 +33,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [M5StickC Plus2 – Unboxing the Pocket-Sized ESP32 Beast #esp32 #smartwatch #iot #wearabledevices](https://www.youtube.com/watch?v=mmQ-tj96U0I)
+- [M5StickC Plus2 – Unboxing the Pocket-Sized ESP32 Beast #esp32  #iot #arduino #wearabledevices](https://www.youtube.com/watch?v=mmQ-tj96U0I)
 - [[DIY Project] GPS Speedometer using M5StickCPlus2](https://www.youtube.com/watch?v=MY92SJlaFmg)
 - [[DIY Project] M5StickC-Plus #smartwatch #esp32 #iot](https://www.youtube.com/watch?v=fZLYG__RQS8)
 - [[DIY Project] M5StickC-Plus #smartwatch #esp32 #iot](https://www.youtube.com/watch?v=gQLLJikvEz0)
