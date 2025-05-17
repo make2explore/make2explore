@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This Tiny Dev Board is a BEAST! - UNIHIKER #ai #machinelearning #iot](https://www.youtube.com/watch?v=QtrhFLunwyg)
 - [[DIY Project] How to make GPS Speedometer](https://www.youtube.com/watch?v=l8nCB1kXlY8)
 - [M5StickC Plus2 – Unboxing the Pocket-Sized ESP32 Beast #esp32  #iot #arduino #wearabledevices](https://www.youtube.com/watch?v=mmQ-tj96U0I)
 - [[DIY Project] M5StickC-Plus #smartwatch #esp32 #iot](https://www.youtube.com/watch?v=fZLYG__RQS8)
 - [[DIY Project] M5StickC-Plus #smartwatch #esp32 #iot](https://www.youtube.com/watch?v=gQLLJikvEz0)
-- [M5StickC Plus #esp32 #smartwatch #iot](https://www.youtube.com/watch?v=fycNIFSYQ2w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
