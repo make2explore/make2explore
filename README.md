@@ -15,7 +15,7 @@
 ### ⚙ Our Services
 
 - ▶️ We create Tech Content :  Video/Blog, Tutorials, Articles about New Technologies, Hardware and Software.
-- 🤖 We also develop DIY Electronics Kits, Embedded systems Lab Kits, DIY Robotics & STEM Educational Kits.
+- 🤖 We also develop custom-made DIY Electronics Kits, Embedded systems Lab Kits, DIY Robotics & STEM Educational Kits.
 - 🎓 We provide Academic Project guidance to the students studying in Electronics Engineering.
 - 🌐 We also design and develop custom Trainer kits for Students and Hobbyists.
 
