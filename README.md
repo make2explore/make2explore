@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cardputer in Action: Mini Computer, Mega Power  #esp32 #iot #arduino #m5stack](https://www.youtube.com/watch?v=45GG-uYiz7s)
 - [The Cardputer - credit card-sized computer  #esp32 #iot #arduino #m5stack](https://www.youtube.com/watch?v=CsOfniTX_KA)
 - [AtomS3 – ESP32-S3 in a 1-Inch Box! + Display!  #esp32 #iot #arduino #m5stack](https://www.youtube.com/watch?v=0X7OFbnUREU)
 - [Meet the UNIHIKER – Game-Changer for Makers! #machinelearning #iot #ai](https://www.youtube.com/watch?v=obxuvQ6YX7Y)
 - [This Tiny Dev Board is a BEAST! - UNIHIKER #ai #machinelearning #iot](https://www.youtube.com/watch?v=QtrhFLunwyg)
-- [[DIY Project] How to make GPS Speedometer](https://www.youtube.com/watch?v=l8nCB1kXlY8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
