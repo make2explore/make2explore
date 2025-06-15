@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This Cube Plays Animations Like a Pro! 🧊🎞️  #esp32 #iot #arduino #m5stack](https://www.youtube.com/watch?v=JOcTPsJ8F-Q)
 - [XP Nostalgia... On a Fingertip-Sized Screen! 😍📟  #esp32 #iot #arduino #m5stack](https://www.youtube.com/watch?v=lWd3EPRHZ0U)
 - [Live Demo: CoreS3 as Your Smart Project Brain!  #esp32 #iot #ai](https://www.youtube.com/watch?v=eArTKw-0C3o)
 - [CoreS3 is a Mini Powerhouse – Live Feature Test!  #esp32 #iot #ai](https://www.youtube.com/watch?v=mLMpzBVLU-w)
 - [CoreS3 - This Dev Kit Can See, Hear, and Think 🤖  #esp32 #iot #ai](https://www.youtube.com/watch?v=lISfTsS8O2Q)
-- [Cardputer in Action: Mini Computer, Mega Power  #esp32 #iot #arduino #m5stack](https://www.youtube.com/watch?v=45GG-uYiz7s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
