@@ -47,11 +47,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Application of LoRa WSN in Landslide Monitoring Systems](https://blog.make2explore.com/application-of-lora-wsn-in-landslide-monitoring-systems/)
 - [Greenhouse Monitoring System – LoRa IoT](https://blog.make2explore.com/greenhouse-monitoring-system-lora-iot/)
 - [IoT Based Smart and Secure Lock V2.0](https://blog.make2explore.com/iot-based-smart-and-secure-lock-v2-0/)
 - [IoT Based Smart and Secure Lock V1.0](https://blog.make2explore.com/iot-based-smart-and-secure-lock-v1-0/)
 - [Home Security System using ESP32-CAM and Telegram App](https://blog.make2explore.com/home-security-system-using-esp32-cam-and-telegram-app/)
-- [DIY Project – Monitor and Control Weather Station with Telegram App](https://blog.make2explore.com/diy-project-monitor-and-control-weather-station-with-telegram-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.make2explore.com/)
