@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Smart IR Remote using M5Stack AtomS3  #esp32 #iot #m5stack #arduino](https://www.youtube.com/shorts/rm7AiTsBW7U)
 - [This Cube Plays Animations Like a Pro! 🧊🎞️  #esp32 #iot #arduino #m5stack](https://www.youtube.com/shorts/JOcTPsJ8F-Q)
 - [XP Nostalgia... On a Fingertip-Sized Screen! 😍📟  #esp32 #iot #arduino #m5stack](https://www.youtube.com/shorts/lWd3EPRHZ0U)
 - [Live Demo: CoreS3 as Your Smart Project Brain!  #esp32 #iot #ai](https://www.youtube.com/shorts/eArTKw-0C3o)
 - [CoreS3 is a Mini Powerhouse – Live Feature Test!  #esp32 #iot #ai](https://www.youtube.com/shorts/mLMpzBVLU-w)
-- [CoreS3 - This Dev Kit Can See, Hear, and Think 🤖  #esp32 #iot #ai](https://www.youtube.com/shorts/lISfTsS8O2Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
