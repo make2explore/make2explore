@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Modern Smart-Home IoT Protocols](https://www.youtube.com/watch?v=prY_9l4Aw_A)
 - [Real-Time Hand Gesture Recognition on UNIHIKER](https://www.youtube.com/watch?v=WssAXF9zzZM)
 - [Smart IR Remote using M5Stack AtomS3  #esp32 #iot #m5stack #arduino](https://www.youtube.com/shorts/rm7AiTsBW7U)
 - [This Cube Plays Animations Like a Pro! 🧊🎞️  #esp32 #iot #arduino #m5stack](https://www.youtube.com/shorts/JOcTPsJ8F-Q)
 - [XP Nostalgia... On a Fingertip-Sized Screen! 😍📟  #esp32 #iot #arduino #m5stack](https://www.youtube.com/shorts/lWd3EPRHZ0U)
-- [Live Demo: CoreS3 as Your Smart Project Brain!  #esp32 #iot #ai](https://www.youtube.com/shorts/eArTKw-0C3o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
