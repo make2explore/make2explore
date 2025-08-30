@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Future of IoT: Matter vs Thread in 2025](https://www.youtube.com/watch?v=aqh4mPTQCJ8)
 - [MediaPipe on Raspberry Pi](https://www.youtube.com/watch?v=AzktHlgjufM)
 - [Installing NoMachine on Raspberry Pi](https://www.youtube.com/watch?v=EumVIAsFkQo)
 - [Modern Smart-Home IoT Protocols](https://www.youtube.com/watch?v=prY_9l4Aw_A)
 - [Real-Time Hand Gesture Recognition on UNIHIKER](https://www.youtube.com/watch?v=WssAXF9zzZM)
-- [Smart IR Remote using M5Stack AtomS3  #esp32 #iot #m5stack #arduino](https://www.youtube.com/shorts/rm7AiTsBW7U)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
