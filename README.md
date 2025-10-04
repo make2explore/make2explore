@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to Install OTBR &lpar;Open-Thread Border Router&rpar; on a Raspberry Pi](https://www.youtube.com/watch?v=yplLM87z4gc)
+- [Demo - OTBR &lpar;OpenThread Border Router&rpar; on a Raspberry Pi](https://www.youtube.com/watch?v=d8k9uCx3reY)
+- [How to Install OTBR &lpar;OpenThread Border Router&rpar; on a Raspberry Pi](https://www.youtube.com/watch?v=yplLM87z4gc)
 - [Future of IoT: Matter vs Thread in 2025](https://www.youtube.com/watch?v=aqh4mPTQCJ8)
 - [MediaPipe on Raspberry Pi](https://www.youtube.com/watch?v=AzktHlgjufM)
 - [Installing NoMachine on Raspberry Pi](https://www.youtube.com/watch?v=EumVIAsFkQo)
-- [Modern Smart-Home IoT Protocols](https://www.youtube.com/watch?v=prY_9l4Aw_A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
