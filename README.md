@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Meet the UNIHIKER K10 – Game-Changer for Makers! #machinelearning #iot #ai](https://www.youtube.com/shorts/Fx6sVipr4rA)
+- [UNIHIKER K10 - A Screen, a Brain, and Endless Ideas #machinelearning #iot #ai](https://www.youtube.com/shorts/Rea6dfLOedc)
 - [Demo - OTBR &lpar;OpenThread Border Router&rpar; on a Raspberry Pi](https://www.youtube.com/watch?v=d8k9uCx3reY)
 - [How to Install OTBR &lpar;OpenThread Border Router&rpar; on a Raspberry Pi](https://www.youtube.com/watch?v=yplLM87z4gc)
 - [Future of IoT: Matter vs Thread in 2025](https://www.youtube.com/watch?v=aqh4mPTQCJ8)
-- [MediaPipe on Raspberry Pi](https://www.youtube.com/watch?v=AzktHlgjufM)
-- [Installing NoMachine on Raspberry Pi](https://www.youtube.com/watch?v=EumVIAsFkQo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
