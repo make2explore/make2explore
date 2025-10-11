@@ -33,7 +33,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Meet the UNIHIKER K10 – Game-Changer for Makers! #machinelearning #iot #ai](https://www.youtube.com/shorts/Fx6sVipr4rA)
+- [AI on One Board - UNIHIKER K10 Live Demo #machinelearning #iot #ai](https://www.youtube.com/shorts/Fx6sVipr4rA)
 - [UNIHIKER K10 - A Screen, a Brain, and Endless Ideas #machinelearning #iot #ai](https://www.youtube.com/shorts/Rea6dfLOedc)
 - [Demo - OTBR &lpar;OpenThread Border Router&rpar; on a Raspberry Pi](https://www.youtube.com/watch?v=d8k9uCx3reY)
 - [How to Install OTBR &lpar;OpenThread Border Router&rpar; on a Raspberry Pi](https://www.youtube.com/watch?v=yplLM87z4gc)
