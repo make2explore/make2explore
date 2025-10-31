@@ -33,7 +33,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Xiaozhi AI ChatBot: The M5Stack Core-S3 #ai #machinelearning #iot](https://www.youtube.com/shorts/5S2VgR-tYXg)
+- [AI in the Palm of Your Hand – Xiaozhi on M5Stack Core-S3🔥 #ai #machinelearning #iot](https://www.youtube.com/shorts/5S2VgR-tYXg)
 - [Xiaozhi AI Unleashed: The UNIHIKER K10 Does It All #ai #machinelearning #iot](https://www.youtube.com/shorts/fQ9zJjb6LdI)
 - [AI on One Board - UNIHIKER K10 Live Demo #ai  #machinelearning #iot](https://www.youtube.com/shorts/Fx6sVipr4rA)
 - [UNIHIKER K10 - A Screen, a Brain, and Endless Ideas #machinelearning #iot #ai](https://www.youtube.com/shorts/Rea6dfLOedc)
