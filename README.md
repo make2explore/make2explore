@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Xiaozhi AI ChatBot: The M5Stack Core-S3 #ai #machinelearning #iot](https://www.youtube.com/shorts/5S2VgR-tYXg)
 - [Xiaozhi AI Unleashed: The UNIHIKER K10 Does It All #ai #machinelearning #iot](https://www.youtube.com/shorts/fQ9zJjb6LdI)
 - [AI on One Board - UNIHIKER K10 Live Demo #ai  #machinelearning #iot](https://www.youtube.com/shorts/Fx6sVipr4rA)
 - [UNIHIKER K10 - A Screen, a Brain, and Endless Ideas #machinelearning #iot #ai](https://www.youtube.com/shorts/Rea6dfLOedc)
 - [Demo - OTBR &lpar;OpenThread Border Router&rpar; on a Raspberry Pi](https://www.youtube.com/watch?v=d8k9uCx3reY)
-- [How to Install OTBR &lpar;OpenThread Border Router&rpar; on a Raspberry Pi](https://www.youtube.com/watch?v=yplLM87z4gc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
