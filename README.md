@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OpenThread Command Line Interface on ESP32](https://www.youtube.com/watch?v=UV3VjUFOPW4)
 - [OpenThread Border Router &lpar;OTBR&rpar; on ESP32 - Method &lpar;II&rpar;](https://www.youtube.com/watch?v=wcr7LpdBkp0)
 - [OpenThread Border Router &lpar;OTBR&rpar; on ESP32 - Method &lpar;I&rpar;](https://www.youtube.com/watch?v=dCaZpY5YMLk)
 - [When AI Controls the Lights! 💡🌈💬 #ai #machinelearning #iot](https://www.youtube.com/shorts/6zrB9hKLZvo)
 - [AI in the Palm of Your Hand – Xiaozhi on M5Stack Core-S3🔥 #ai #machinelearning #iot](https://www.youtube.com/shorts/5S2VgR-tYXg)
-- [Xiaozhi AI Unleashed: The UNIHIKER K10 Does It All #ai #machinelearning #iot](https://www.youtube.com/shorts/fQ9zJjb6LdI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
