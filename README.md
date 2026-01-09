@@ -33,11 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Xiaozhi AI Chatbot on UNIHIKER K10](https://www.youtube.com/watch?v=PnkaDgfcjJc)
 - [Testing &lpar;OT-CLI&rpar; OpenThread Command Line Interface on ESP32](https://www.youtube.com/watch?v=_wUcHYqmB2Q)
 - [ESPConnect - Ultimate ESP32 &quot;Swiss Army Knife&quot; Tool!](https://www.youtube.com/watch?v=DnZZ9E_58aQ)
 - [Raspberry Pi OTBR &lpar;OpenThread Border Router&rpar; Setup](https://www.youtube.com/watch?v=4it4LK4b8Wk)
 - [OpenThread Border Router &lpar;OTBR&rpar; on ESP32 - Method &lpar;II&rpar;](https://www.youtube.com/watch?v=wcr7LpdBkp0)
-- [OpenThread Border Router &lpar;OTBR&rpar; on ESP32 - Method &lpar;I&rpar;](https://www.youtube.com/watch?v=dCaZpY5YMLk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
