@@ -8,16 +8,18 @@
 
 ### Who We Are
 
-𝗺𝗮𝗸𝗲𝟮𝗲𝘅𝗽𝗹𝗼𝗿𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 is a team of Engineering Consultants. We create Tech Content : Videos, Blogs, Articles about New Technologies, Hardware and Software. We also provide online consultation to the Students and Hobbyists in their Academic/Hobby projects.
+We are a technical content creation and documentation consultancy specializing in embedded systems, development boards, and edge computing platforms. Our mission is to bridge the gap between complex hardware and developer adoption through comprehensive evaluation, clear documentation, and hands-on demonstrations.
+
+We work with hardware manufacturers, startups, and developer platforms to create the technical resources that accelerate product adoption. From pre-launch validation to post-launch evangelism, we deliver the content and proof-of-concepts that help developers build with confidence. Our approach combines rigorous hardware testing, developer-focused documentation, and real-world project development to showcase what's truly possible with your technology.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=make2explore&label=Profile%20views&color=0e75b6&style=flat" alt="make2explore" /> </p>
 
 ### ⚙ Our Services
 
-- ▶️ We create Tech Content :  Video/Blog, Tutorials, Articles about New Technologies, Hardware and Software.
-- 🤖 We also develop custom-made DIY Electronics Kits, Embedded systems Lab Kits, DIY Robotics & STEM Educational Kits.
-- 🎓 We provide Academic Project guidance to the students studying in Electronics Engineering.
-- 🌐 We also design and develop custom Trainer kits for Students and Hobbyists.
+- ▶️ Developer Evangelism & Technical Content Creation
+- 🎓 Technical Documentation & Developer Guides
+- 🤖 Embedded Hardware Evaluation & Validation
+- 🌐 Proof-of-Concept Development & MVP Prototyping
 
 
 ### 🔗 Connect with us:
