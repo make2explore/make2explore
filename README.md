@@ -35,11 +35,11 @@ We work with hardware manufacturers, startups, and developer platforms to create
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [[Part-1] Build your own Voice + Vision AI Assistant](https://www.youtube.com/watch?v=N8MvnsQ9HN0)
 - [Voice &amp; Vision AI Assistant on M5Stack CoreS3 [Part -3]](https://www.youtube.com/watch?v=uq-KQKdGpUE)
 - [Voice &amp; Vision AI Assistant on M5Stack CoreS3 [Part -2]](https://www.youtube.com/watch?v=8B4I5AyoJd0)
 - [Voice &amp; Vision AI Assistant on M5Stack CoreS3 [Part -1]](https://www.youtube.com/watch?v=vCIr8Rq9szs)
 - [How to build your own Voice + Vision AI Assistant : Xiaozhi AI Chatbot on UNIHIKER K10](https://www.youtube.com/watch?v=PnkaDgfcjJc)
-- [Testing &lpar;OT-CLI&rpar; OpenThread Command Line Interface on ESP32](https://www.youtube.com/watch?v=_wUcHYqmB2Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
