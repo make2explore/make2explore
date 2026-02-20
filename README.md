@@ -35,11 +35,11 @@ We work with hardware manufacturers, startups, and developer platforms to create
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [KR260 Robotics Starter Kit Unboxing - ROS 2 + FPGA Power](https://www.youtube.com/watch?v=dSLpAk4iOcQ)
 - [[Part-4] Build your own Voice + Vision AI Assistant &lpar;Hindi Language Chatbot Demo&rpar;](https://www.youtube.com/watch?v=ubwiAPYYJUc)
 - [[Part-3] Build your own Voice + Vision AI Assistant &lpar;English Chatbot Demo&rpar;](https://www.youtube.com/watch?v=RdlV_dSP7NA)
 - [[Part-2] Build your own Voice + Vision AI Assistant](https://www.youtube.com/watch?v=kH2ImnQFfLY)
 - [[Part-1] Build your own Voice + Vision AI Assistant](https://www.youtube.com/watch?v=N8MvnsQ9HN0)
-- [Voice &amp; Vision AI Assistant on M5Stack CoreS3 [Part -3]](https://www.youtube.com/watch?v=uq-KQKdGpUE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
