@@ -49,11 +49,11 @@ We work with hardware manufacturers, startups, and developer platforms to create
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arduino Drops Seven Fresh Accessories to Supercharge the UNO Q](https://blog.make2explore.com/arduino-drops-seven-fresh-accessories-to-supercharge-the-uno-q/)
 - [Application of LoRa WSN in Landslide Monitoring Systems](https://blog.make2explore.com/application-of-lora-wsn-in-landslide-monitoring-systems/)
 - [Greenhouse Monitoring System – LoRa IoT](https://blog.make2explore.com/greenhouse-monitoring-system-lora-iot/)
 - [IoT Based Smart and Secure Lock V2.0](https://blog.make2explore.com/iot-based-smart-and-secure-lock-v2-0/)
 - [IoT Based Smart and Secure Lock V1.0](https://blog.make2explore.com/iot-based-smart-and-secure-lock-v1-0/)
-- [Home Security System using ESP32-CAM and Telegram App](https://blog.make2explore.com/home-security-system-using-esp32-cam-and-telegram-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.make2explore.com/)
