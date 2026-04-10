@@ -35,11 +35,11 @@ We work with hardware manufacturers, startups, and developer platforms to create
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ROS2 on KR260 Made Easy 🚀 | Complete Setup + TurtleSim Demo](https://www.youtube.com/watch?v=650_JX9G9P4)
 - [Cypress + Infineon PSoC6 : Complete Prototyping Arsenal Revealed! #iot #ai #machinelearning](https://www.youtube.com/shorts/xku3VVKo2ig)
 - [AMD KR260 Real-Time Object Detection: Vision AI | FPGA | Hardware Acceleration](https://www.youtube.com/watch?v=4EN45H3MyEY)
 - [AMD Kria KR260 : ROS2, FPGA Hardware Acceleration #ai #edgeai #ros2](https://www.youtube.com/shorts/HO7OIZ3Ha8A)
 - [KR260 Robotics Starter Kit Headless Setup](https://www.youtube.com/watch?v=S-gdlXVWeXY)
-- [KR260 Robotics Starter Kit Unboxing - ROS 2 + FPGA Power](https://www.youtube.com/watch?v=dSLpAk4iOcQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
