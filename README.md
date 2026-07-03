@@ -37,11 +37,11 @@ We work with hardware manufacturers, startups, and developer platforms to create
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Jetson Orin Nano: NEW JetPack Setup Guide | Bootable USB Flash Drive Method](https://www.youtube.com/watch?v=KXQEhidMDfc)
 - [Robot Operating Systems &lpar;ROS2&rpar; on Kria KR260 Board 🚀 | Complete Setup + TurtleSim Demo](https://www.youtube.com/watch?v=nKaZTjJ8Xk8)
 - [Jetson Orin Nano Super Developer Kit : Unboxing &amp; Specs](https://www.youtube.com/watch?v=QPcrAhREJjQ)
 - [Nordic nRF Dev Kits — The Undisputed Kings of Wireless MCUs! 👑](https://www.youtube.com/shorts/_QI3S64vdDs)
 - [Cypress + Infineon PSoC6 : Complete Prototyping Arsenal Revealed! #iot #ai #machinelearning](https://www.youtube.com/shorts/xku3VVKo2ig)
-- [AMD KR260 Real-Time Object Detection: Vision AI | FPGA | Hardware Acceleration](https://www.youtube.com/watch?v=4EN45H3MyEY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
