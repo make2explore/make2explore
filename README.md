@@ -37,11 +37,11 @@ We work with hardware manufacturers, startups, and developer platforms to create
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This Arduino Board Runs Linux! 🔥 | UNO Q #ai #arduino #machinelearning](https://www.youtube.com/shorts/L4T588-WIXM)
 - [Arduino UNO Q: Full Setup, App Lab, Linux Desktop &amp; Hands-On Testing](https://www.youtube.com/watch?v=uVZVJ7scBJ8)
 - [Inside the ReSpeaker XVF3800 Voice AI Dev Kit✨  #ai #esp32](https://www.youtube.com/shorts/igvbQ5YoHng)
 - [Jetson Orin Nano: NEW JetPack Setup Guide | Bootable USB Flash Drive Method](https://www.youtube.com/watch?v=KXQEhidMDfc)
 - [Robot Operating Systems &lpar;ROS2&rpar; on Kria KR260 Board 🚀 | Complete Setup + TurtleSim Demo](https://www.youtube.com/watch?v=nKaZTjJ8Xk8)
-- [Jetson Orin Nano Super Developer Kit : Unboxing &amp; Specs](https://www.youtube.com/watch?v=QPcrAhREJjQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/make2explore)
